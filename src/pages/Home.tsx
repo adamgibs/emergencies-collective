@@ -9,7 +9,7 @@ function Home() {
         <p>Explore the collection of photos and posts.</p>
         <div className="home-links">
           <Link to="/gallery" className="home-link">View Gallery</Link>
-          <Link to="/archive" className="home-link">Browse Essay Archive</Link>
+          <Link to="/archive" className="home-link">Essay Archive</Link>
         </div>
       </div>
     </div>
